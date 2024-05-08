@@ -3,8 +3,13 @@
         alt='Waving hand animated gif'
         height='30px'
         width='30px' />
- Hi, I’m Framegreper
+ Hi, I’m Framegreper <br />
+  <br />
+  <img src='https://komarev.com/ghpvc/?username=Framegreper&color=green&style=for-the-badge'
+    alt='Profile Views' />
+</h1>
 - 👀 I’m interested in Software Engineering, Mainframes, AI and Datascience.
+</br>
 - 🌱 I’m currently learning ...
 
 ---
@@ -82,7 +87,7 @@
 
 ##### Python
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![Numpy]
+![Numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit]
 ![Langchain]
 
@@ -110,8 +115,8 @@
 
 #### 🖥️ Operating Systems & Virtual Machines
 
-![Linux]
-![Windows]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Z/OS]
 
 #### 🔌 Networks
@@ -127,9 +132,9 @@
 ![Slack]
 
 #### 🗣️ Human Languages
-![English]()
-![German]
-![Japanes]
+![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
+![German](https://img.shields.io/badge/german-3670A0?style=for-the-badge&logoColor=white)
+![Japanes](https://img.shields.io/badge/japanes-3670A0?style=for-the-badge&logoColor=white)
 
 #### 📚 Knowledgable About
 ![AI]
