@@ -9,6 +9,9 @@
 
 ---
 ### 🔗 Connect with me
+<a href='dominik.broder@living-mainframe.de' target='_blank'><img src='https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_960_720.png' alt='email' width='40' height='40'/></a>
+<a href=''><img src='https://user-images.githubusercontent.com/57925294/136809422-7a0e564f-e112-4e40-8635-c0ed846844b6.png' alt='reddit' width='40' height='40'/></a>
+<a href='https://www.linkedin.com/in/dominik-broder-010107286/' target='_blank'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='linkedin' width='40' height='40'/></a>
 
 ---
 
@@ -65,20 +68,20 @@
 
 #### ✏️ Programming Languages
 
-![Bash]
-![Python]
+![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
 ![C++]
-![Javascript]
-![SQL]
-![Php]
-![Go]
-![Docker]
-![Java]
+![Javascript](https://img.shields.io/badge/javascript-f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Php](https://img.shields.io/badge/php-777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-00add8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### Libraries
 
 ##### Python
-![Pandas]
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy]
 ![Streamlit]
 ![Langchain]
@@ -86,11 +89,11 @@
 ##### JavaScript/Typescript
 
 #### ✒️ IDEs/Editors
-![Visual Studio Code]
+![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🎨 Design
 ![Gimp]
-![Inkscape]
+![Inkscape](https://img.shields.io/badge/inkscape-050505.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 
 #### 📑 Project Management
 ![Jira]
