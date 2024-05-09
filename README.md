@@ -15,7 +15,7 @@
 ---
 ### 🔗 Connect with me
 <a href='dominik.broder@living-mainframe.de' target='_blank'><img src='https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_960_720.png' alt='email' width='40' height='40'/></a>
-<a href=''><img src='https://user-images.githubusercontent.com/57925294/136809422-7a0e564f-e112-4e40-8635-c0ed846844b6.png' alt='reddit' width='40' height='40'/></a>
+<a href='https://www.reddit.com/user/Framegreper/'><img src='https://user-images.githubusercontent.com/57925294/136809422-7a0e564f-e112-4e40-8635-c0ed846844b6.png' alt='reddit' width='40' height='40'/></a>
 <a href='https://www.linkedin.com/in/dominik-broder-010107286/' target='_blank'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='linkedin' width='40' height='40'/></a>
 
 ---
