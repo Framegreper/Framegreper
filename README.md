@@ -83,13 +83,14 @@
 ![Docker](https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+
 #### Libraries
 
 ##### Python
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit]
-![Langchain]
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain]
 
 ##### JavaScript/Typescript
 
@@ -101,21 +102,21 @@
 ![Inkscape](https://img.shields.io/badge/inkscape-050505.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 
 #### 📑 Project Management
-![Jira]
+![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Tempo]
-![Confluence]
+
 
 #### 🔢 Version Control
 
 ![Git](https://img.shields.io/badge/git-f05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbuckett]
+![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 #### 🖥️ Operating Systems & Virtual Machines
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![z/OS](https://img.shields.io/badge/z%2FOS-0078D6?style=for-the-badge&logoärung)
+![z/OS](
 
 #### 🔌 Networks
 ![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -124,9 +125,10 @@
 #### 🏢 Office
 
 ![Microsoft Office]
-![Teams]
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Webex]
-![Slack]
+![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+
 
 #### 🗣️ Human Languages
 ![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
