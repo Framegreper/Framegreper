@@ -28,6 +28,11 @@
 ### 📝 My Todo List
 
 <!-- TODO-IST:START -->
+- [ ] Compete System Setup
+- [ ] Compelte Template Repositorie
+- [ ] Leveling up Linkedin and Github Profile
+- [ ] Create Live Coding OBS setup
+- [ ] Creating Digital Garden on Github
 <!-- TODO-IST:END -->
 
 ---
