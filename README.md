@@ -77,13 +77,18 @@
 ### 🔧 Skills
 
 #### ✏️ Programming Languages
-
+##### Default
 ![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9f1d20?style=for-the-badge&logo=racket&logoColor=white)
+![Groovy]
 ![C++]
+##### Mainframe 
+![COBOL](https://img.shields.io/badge/COBOL-005ca5?style=for-the-badge&logo=cobol&logoColor=white)
+![REXX](https://img.shields.io/badge/REXX-4d4d4d?style=for-the-badge&logo=rexx&logoColor=white)
+##### Misc
 ![Javascript](https://img.shields.io/badge/javascript-f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Php](https://img.shields.io/badge/php-777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00add8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
