@@ -29,10 +29,10 @@
 
 <!-- TODO-IST:START -->
 - [ ] Compete System Setup
-- [ ] Compelte Template Repositorie
-- [ ] Leveling up Linkedin and Github Profile
+- [ ] Compelte Template Repositorie(Academic Journal,Bibliography, Book,CV, Formal Letter,Assignment, Poster, Presentation,Lab report,Thesis, Architecture Documentation, Learning)
+- [ ] Leveling up Linkedin and Github Profile(Level3)
 - [ ] Create Live Coding OBS setup
-- [ ] Creating Digital Garden on Github
+- [ ] Creating Digital Garden on Github(Setting up Dendron in VSCode to Publish in a Github Repo)
 <!-- TODO-IST:END -->
 
 ---
