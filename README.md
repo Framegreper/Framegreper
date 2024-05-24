@@ -83,8 +83,8 @@
 ![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9f1d20?style=for-the-badge&logo=racket&logoColor=white)
-![Groovy]
-![C++]
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ##### Mainframe 
 ![COBOL](https://img.shields.io/badge/COBOL-005ca5?style=for-the-badge&logo=cobol&logoColor=white)
 ![REXX](https://img.shields.io/badge/REXX-4d4d4d?style=for-the-badge&logo=rexx&logoColor=white)
