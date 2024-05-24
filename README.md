@@ -22,9 +22,10 @@
 
 ### 📕 My Digital Garden
 <!-- BLOG-POST-LIST:START -->
-- ![HUB](https://framegreper.github.io/Digital-Garden/)
-- 🌱 I’m currently learning ... 
+🌱 I’m currently learning ... 
 <!-- BLOG-POST-LIST:END -->
+
+[View More](https://Framegreper.github.io/Digital-Garden/)
 ---
 
 ### 📝 My Todo List
@@ -51,6 +52,8 @@
 <!-- PROJECTS:START -->
 <!-- PROJECTS:END -->
 
+[View More](https://github.com/Framegreper?tab=repositories)
+
 ---
 
 ### 📚 Books I'm planning to read
@@ -75,6 +78,7 @@
 
 ### 📊 What I worked on this week
 ---
+![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Framegreper&hide_title=true&hide_border=true&bg_color=00000000&text_color=777&range=last_7_days&layout=compact)
 
 ### 🔧 Skills
 
