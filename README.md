@@ -119,23 +119,20 @@
 
 
 #### 🔢 Version Control
-
 ![Git](https://img.shields.io/badge/git-f05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-#### 🖥️ Operating Systems & Virtual Machines
-
+#### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![z/OS](
+![z/OS]()
 
 #### 🔌 Networks
 ![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-505050?style=for-the-badge)
 
 #### 🏢 Office
-
 ![Microsoft Office]
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Webex]
