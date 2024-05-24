@@ -20,8 +20,9 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 My Digital Garden
 <!-- BLOG-POST-LIST:START -->
+![HUB](https://framegreper.github.io/Digital-Garden/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
@@ -29,10 +30,10 @@
 
 <!-- TODO-IST:START -->
 - [ ] Compete System Setup
-- [ ] Compelte Template Repositorie(Academic Journal,Bibliography, Book,CV, Formal Letter,Assignment, Poster, Presentation,Lab report,Thesis, Architecture Documentation, Learning)
+- [ ] Compelte Template Repositorie(Bibliography,CV,Lab report, Architecture Documentation, Learning,Script)
 - [ ] Leveling up Linkedin and Github Profile(Level3)
 - [ ] Create Live Coding OBS setup
-- [ ] Creating Digital Garden on Github(Setting up Dendron in VSCode to Publish in a Github Repo)
+- [ ] Creating Digital Garden on Github(Publish in a Github Repo)
 <!-- TODO-IST:END -->
 
 ---
