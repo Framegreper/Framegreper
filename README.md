@@ -10,7 +10,7 @@
 </h1>
 - 👀 I’m interested in Software Engineering, Mainframes, AI and Datascience.
 </br>
-- 🌱 I’m currently learning ...
+
 
 ---
 ### 🔗 Connect with me
@@ -22,14 +22,15 @@
 
 ### 📕 My Digital Garden
 <!-- BLOG-POST-LIST:START -->
-![HUB](https://framegreper.github.io/Digital-Garden/)
+- ![HUB](https://framegreper.github.io/Digital-Garden/)
+- 🌱 I’m currently learning ... 
 <!-- BLOG-POST-LIST:END -->
 ---
 
 ### 📝 My Todo List
 
 <!-- TODO-IST:START -->
-- [ ] Complete System Setup
+- [3/10] Complete System Setup(Devcontainer, AHK script for keybind, Komorebi, and autostart,other scripts, config files for termianl, komorebi, yasb, Datamanagement, Install scrip, Theming)
 - [x] Compelte Template Repositorie
 - [ ] Leveling up Linkedin and Github Profile(Level3)
 - [x] Create Live Coding OBS setup
