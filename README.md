@@ -102,7 +102,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain]
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV...Cg==&logoColor=white)
+
 
 ##### JavaScript/Typescript
 
@@ -125,16 +126,16 @@
 #### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![z/OS]()
+![z/OS](https://img.shields.io/badge/z%2FOS-0073ae?style=for-the-badge&logoColor=white)
 
 #### 🔌 Networks
 ![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-505050?style=for-the-badge)
 
 #### 🏢 Office
-![Microsoft Office]
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Webex]
+![Webex](https://img.shields.io/badge/Webex-00a2ed?style=for-the-badge&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
 
