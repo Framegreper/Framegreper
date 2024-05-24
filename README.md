@@ -29,11 +29,11 @@
 ### 📝 My Todo List
 
 <!-- TODO-IST:START -->
-- [ ] Compete System Setup
-- [90%] Compelte Template Repositorie(Implement Learning Template)
+- [ ] Complete System Setup
+- [x] Compelte Template Repositorie
 - [ ] Leveling up Linkedin and Github Profile(Level3)
-- [1/6] Create Live Coding OBS setup
-- [50%] Creating Digital Garden on Github(Publish in a Github Repo)
+- [x] Create Live Coding OBS setup
+- [50%] Creating Digital Garden on Github(Publish in a Github Repo, Design und Organisation, Anbindung an College Writing setup)
 <!-- TODO-IST:END -->
 
 ---
