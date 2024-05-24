@@ -115,7 +115,6 @@
 
 #### 📑 Project Management
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Tempo]
 
 
 #### 🔢 Version Control
