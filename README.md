@@ -30,10 +30,10 @@
 
 <!-- TODO-IST:START -->
 - [ ] Compete System Setup
-- [ ] Compelte Template Repositorie(Bibliography,CV,Lab report, Architecture Documentation, Learning,Script)
+- [90%] Compelte Template Repositorie(Implement Learning Template)
 - [ ] Leveling up Linkedin and Github Profile(Level3)
-- [ ] Create Live Coding OBS setup
-- [ ] Creating Digital Garden on Github(Publish in a Github Repo)
+- [1/6] Create Live Coding OBS setup
+- [50%] Creating Digital Garden on Github(Publish in a Github Repo)
 <!-- TODO-IST:END -->
 
 ---
