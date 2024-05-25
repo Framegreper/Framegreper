@@ -9,15 +9,11 @@
     alt='Profile Views' />
 </h1>
 - 👀 I’m interested in Software Engineering, Mainframes, AI and Datascience.
-</br>
-
-
 ---
 ### 🔗 Connect with me
 <a href='dominik.broder@living-mainframe.de' target='_blank'><img src='https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_960_720.png' alt='email' width='40' height='40'/></a>
 <a href='https://www.reddit.com/user/Framegreper/'><img src='https://user-images.githubusercontent.com/57925294/136809422-7a0e564f-e112-4e40-8635-c0ed846844b6.png' alt='reddit' width='40' height='40'/></a>
 <a href='https://www.linkedin.com/in/dominik-broder-010107286/' target='_blank'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='linkedin' width='40' height='40'/></a>
-
 ---
 
 ### 📕 My Digital Garden
@@ -33,7 +29,7 @@
 <!-- TODO-IST:START -->
 - [3/10] Complete System Setup(Devcontainer, AHK script for keybind, Komorebi, and autostart,other scripts, config files for termianl, komorebi, yasb, Datamanagement, Install scrip, Theming)
 - [x] Compelte Template Repositorie
-- [ ] Leveling up Linkedin and Github Profile(Level3)
+- [x] Leveling up Linkedin and Github Profile
 - [x] Create Live Coding OBS setup
 - [50%] Creating Digital Garden on Github(Publish in a Github Repo, Design und Organisation, Anbindung an College Writing setup)
 <!-- TODO-IST:END -->
@@ -55,25 +51,31 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
+- [Dummmy]
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=to-read)
+
 ---
 
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [Dummmy]
 <!-- GOODREADS-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=currently-reading)
+
 ---
 
 ### 📚 Books I've read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Dummmy]
 <!-- GOODREADS-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=read)
+
 ---
 
 ### 🔧 Skills
