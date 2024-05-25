@@ -40,16 +40,12 @@
 
 ---
 
-### ⚡ My Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### 📽️ Projects
 
 <!-- PROJECTS:START -->
+- [System Setup](https://github.com/Framegreper/System-Setup)
+- [Templates](https://github.com/Framegreper/Templates)
+- [awesome-repoarchiv](https://github.com/Framegreper/awesome-repoarchiv)
 <!-- PROJECTS:END -->
 
 [View More](https://github.com/Framegreper?tab=repositories)
@@ -61,6 +57,7 @@
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
+[View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=to-read)
 ---
 
 ### 📚 Books I'm reading
@@ -68,17 +65,16 @@
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
+[View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=currently-reading)
 ---
 
 ### 📚 Books I've read
 
 <!-- GOODREADS-READ-LIST:START -->
 <!-- GOODREADS-READ-LIST:END -->
----
 
-### 📊 What I worked on this week
+[View More](https://www.goodreads.com/review/list/178544012-dominik?ref=nav_mybooks&shelf=read)
 ---
-![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Framegreper&hide_title=true&hide_border=true&bg_color=00000000&text_color=777&range=last_7_days&layout=compact)
 
 ### 🔧 Skills
 
